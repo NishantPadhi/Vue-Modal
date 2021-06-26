@@ -1,0 +1,33 @@
+{
+  "name": "modal-project",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "core-js": "^3.14.0",
+    "vue": "^3.1.1",
+    "vue-class-component": "^8.0.0-rc.1"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.27.0",
+    "@typescript-eslint/parser": "^4.27.0",
+    "@vue/cli-plugin-babel": "^4.5.13",
+    "@vue/cli-plugin-eslint": "^4.5.13",
+    "@vue/cli-plugin-typescript": "~4.4.0",
+    "@vue/cli-service": "^4.5.13",
+    "@vue/compiler-sfc": "^3.1.1",
+    "@vue/eslint-config-prettier": "^6.0.0",
+    "@vue/eslint-config-typescript": "^7.0.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-prettier": "^3.4.0",
+    "eslint-plugin-vue": "^7.11.1",
+    "fork-ts-checker-webpack-plugin": "^3.1.1",
+    "prettier": "^2.3.1",
+    "typescript": "^4.1.6",
+    "vue-loader-v16": "^16.0.0-beta.5.4"
+  }
+}
